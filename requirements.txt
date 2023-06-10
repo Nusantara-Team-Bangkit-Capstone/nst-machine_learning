@@ -1,4 +1,5 @@
 Flask
+Pillow
 google-cloud-storage
 tensorflow
 gunicorn==20.1.0; python_version > '3.0'
